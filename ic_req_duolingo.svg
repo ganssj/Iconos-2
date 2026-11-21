@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="glassBody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgb(248,250,252)" stop-opacity="0.28" />
+      <stop offset="50%" stop-color="rgb(248,250,252)" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="rgb(248,250,252)" stop-opacity="0.08" />
+    </linearGradient>
+    <linearGradient id="glassRim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.86" />
+      <stop offset="60%" stop-color="#FFFFFF" stop-opacity="0.26" />
+      <stop offset="100%" stop-color="#0A0A0C" stop-opacity="0.22" />
+    </linearGradient>
+  </defs>
+  <path d="M98.00,50.00 L97.88,56.27 L97.53,60.88 L96.94,64.99 L96.11,68.76 L95.05,72.26 L93.77,75.52 L92.25,78.56 L90.51,81.38 L88.55,83.98 L86.38,86.38 L83.98,88.55 L81.38,90.51 L78.56,92.25 L75.52,93.77 L72.26,95.05 L68.76,96.11 L64.99,96.94 L60.88,97.53 L56.27,97.88 L50.00,98.00 L43.73,97.88 L39.12,97.53 L35.01,96.94 L31.24,96.11 L27.74,95.05 L24.48,93.77 L21.44,92.25 L18.62,90.51 L16.02,88.55 L13.62,86.38 L11.45,83.98 L9.49,81.38 L7.75,78.56 L6.23,75.52 L4.95,72.26 L3.89,68.76 L3.06,64.99 L2.47,60.88 L2.12,56.27 L2.00,50.00 L2.12,43.73 L2.47,39.12 L3.06,35.01 L3.89,31.24 L4.95,27.74 L6.23,24.48 L7.75,21.44 L9.49,18.62 L11.45,16.02 L13.62,13.62 L16.02,11.45 L18.62,9.49 L21.44,7.75 L24.48,6.23 L27.74,4.95 L31.24,3.89 L35.01,3.06 L39.12,2.47 L43.73,2.12 L50.00,2.00 L56.27,2.12 L60.88,2.47 L64.99,3.06 L68.76,3.89 L72.26,4.95 L75.52,6.23 L78.56,7.75 L81.38,9.49 L83.98,11.45 L86.38,13.62 L88.55,16.02 L90.51,18.62 L92.25,21.44 L93.77,24.48 L95.05,27.74 L96.11,31.24 L96.94,35.01 L97.53,39.12 L97.88,43.73 Z" fill="url(#glassBody)" stroke="url(#glassRim)" stroke-width="1.8" />
+  <g transform="translate(24, 24) scale(2.1667)" fill="none" stroke="#0A0A0C" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M5 4.5A2.5 2.5 0 017.5 2H19v18H7.5A2.5 2.5 0 005 22V4.5z" />
+      <path d="M5 19.5A2.5 2.5 0 017.5 17H19" />
+      <line x1="9.5" y1="7" x2="15.5" y2="7" />
+  </g>
+</svg>

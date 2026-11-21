@@ -1,0 +1,17 @@
+{
+  "packName": "VitroGlass Icons",
+  "packageName": "com.vitroglass.icons",
+  "style": "Minimalist Transparent Glass Squircle with Black Line Art",
+  "themeConfig": {
+    "presetId": "personalizado",
+    "squircleExponent": 2.5,
+    "glassOpacity": 0.12,
+    "glassBlur": 18,
+    "glassTint": "#F8FAFC",
+    "rimOpacity": 0.86,
+    "strokeWidth": 1.7,
+    "shadowDepth": 0.16
+  },
+  "totalBaseIcons": 36,
+  "totalCustomRequests": 3
+}
